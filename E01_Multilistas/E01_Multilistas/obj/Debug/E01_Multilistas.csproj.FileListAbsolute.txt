@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\bin\Debug\E01_Multilistas.exe.config
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\bin\Debug\E01_Multilistas.exe
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\bin\Debug\E01_Multilistas.pdb
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.FormAlbum.resources
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.FormPrincipal.resources
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.Properties.Resources.resources
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.exe
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.pdb
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.exe.config
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.FormReporte.resources
+C:\Users\HP\OneDrive\Imágenes\UPC\UPC-2026\Semestre 2\FundaSIS\E01_Multilistas\E01_Multilistas\obj\Debug\E01_Multilistas.FormVerHeroes.resources
